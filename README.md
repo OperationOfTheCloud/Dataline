@@ -1,5 +1,5 @@
 ### Cross Platform AirDrop ###
-I made it because
+I made it just because
 
 jk
 
